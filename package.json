@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "axios": "^0.27.2",
+    "flv.js": "^1.6.2",
+    "lodash": "^4.17.21",
+    "redux-thunk": "^2.4.1"
+  }
+}
